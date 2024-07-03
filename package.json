@@ -1,0 +1,19 @@
+{
+  "name": "@annkhrust/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnKhrust/HW_JS_2_platforms.git"
+  },
+  "author": "AnnKhrust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnKhrust/HW_JS_2_platforms/issues"
+  },
+  "homepage": "https://github.com/AnnKhrust/HW_JS_2_platforms#readme",
+  "description": ""
+}
