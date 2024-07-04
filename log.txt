@@ -1,0 +1,50 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.14.0
+3 silly config load:file:C:\Users\user\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\user\Desktop\HW\JS\Part2\HW_JS_2_platforms\.npmrc
+5 silly config load:file:C:\Users\user\.npmrc
+6 silly config load:file:C:\Program Files\nodejs\etc\npmrc
+7 verbose title npm publish
+8 verbose argv "publish"
+9 verbose logfile logs-max:10 dir:C:\Users\user\AppData\Local\npm-cache\_logs\2024-07-04T19_36_14_337Z-
+10 verbose logfile C:\Users\user\AppData\Local\npm-cache\_logs\2024-07-04T19_36_14_337Z-debug-0.log
+11 verbose publish [ '.' ]
+12 silly logfile start cleaning logs, removing 1 files
+13 silly logfile done cleaning log files
+14 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+15 notice
+16 notice 📦  @annkhrust/ajs@1.0.0
+17 notice Tarball Contents
+18 notice 78B .babelrc
+18 notice 30B .browserslistrc
+18 notice 18.9kB README.md
+18 notice 224B dist/index.js
+18 notice 809B package.json
+18 notice 162B src/index.js
+18 notice 1.1kB webpack.config.js
+19 notice Tarball Details
+20 notice name: @annkhrust/ajs
+21 notice version: 1.0.0
+22 notice filename: annkhrust-ajs-1.0.0.tgz
+23 notice package size: 7.2 kB
+24 notice unpacked size: 21.3 kB
+25 notice shasum: e01993ee1776a40eaf17d2c284a7c79096e5f75f
+26 notice integrity: sha512-ggGkSHOmkILX+[...]9L0oQQAOM1CXg==
+27 notice total files: 7
+28 notice
+29 verbose stack Error: This command requires you to be logged in to https://npm.pkg.github.com
+29 verbose stack     at #publish (C:\Users\user\AppData\Roaming\npm\node_modules\npm\lib\commands\publish.js:144:29)
+29 verbose stack     at async Publish.exec (C:\Users\user\AppData\Roaming\npm\node_modules\npm\lib\commands\publish.js:46:5)
+29 verbose stack     at async Npm.exec (C:\Users\user\AppData\Roaming\npm\node_modules\npm\lib\npm.js:207:9)
+29 verbose stack     at async module.exports (C:\Users\user\AppData\Roaming\npm\node_modules\npm\lib\cli\entry.js:74:5)
+30 error code ENEEDAUTH
+31 error need auth This command requires you to be logged in to https://npm.pkg.github.com
+32 error need auth You need to authorize this machine using `npm adduser`
+33 verbose cwd C:\Users\user\Desktop\HW\JS\Part2\HW_JS_2_platforms
+34 verbose os Windows_NT 10.0.22621
+35 verbose node v20.14.0
+36 verbose npm  v10.8.1
+37 verbose exit 1
+38 verbose code 1
+39 error A complete log of this run can be found in: C:\Users\user\AppData\Local\npm-cache\_logs\2024-07-04T19_36_14_337Z-debug-0.log
