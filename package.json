@@ -7,7 +7,7 @@
     "build": "webpack --mode production"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "@annkhrust:registry":"https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
